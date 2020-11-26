@@ -1,0 +1,31 @@
+@media screen and (min-width: 1280px) {
+  .emblem-competition {
+    width: 150px;
+    height: 114px;
+  }
+
+  .league-container {
+    flex-direction: row;
+  }
+
+  .league-list {
+    width: 20%;
+  }
+
+  .club-name,
+  .versus {
+    font-size: 1rem;
+  }
+
+  .img-match {
+    height: 45px;
+  }
+
+  .highlight {
+    display: table;
+  }
+
+  .img-club {
+    height: 45px;
+  }
+}
